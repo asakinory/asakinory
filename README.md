@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @asakinory
-- 👀 I’m interested in User Experience design and research tools, especially ones that combine Data Science analysis methods.
-- 💞️ I’m looking to collaborate on projects that has to do with developing tools for UX research written in JavaScript and/or Python.
+- 👋 Hi, I’m @asakinory, UX Professional and a general maker of things
 - 📫 Reach me at asakinory@gmail.com
 
 <!---
